@@ -2,7 +2,7 @@
   "name": "startframework",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AyaAbdelaal15.github.io/reactProject",
+  "homepage": "https://AyaAbdelaal15.github.io/reacrPro",
   "type": "module",
   "scripts": {
     "dev": "vite",
